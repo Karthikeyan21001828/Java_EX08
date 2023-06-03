@@ -1,4 +1,4 @@
-# Java_EX08
+# Ex-8 Using Inheritance one class can acquire the properties of others.
 ## AIM:
 To write a program using Inheritance one class can acquire the properties of others.
 ## PROCEDURE:
